@@ -60,7 +60,7 @@ Key steps followed during the EDA process:
 
 - **Scatter plots & heatmaps:** Explored relationships between multiple variables.
 
-# Key Insights
+## Key Insights
 
 * Females had a much higher survival rate compared to males.
 
